@@ -73,7 +73,7 @@ const Header = () =>{
       <SocialIcons href="https://github.com/Beta-test-initiation">
         <Image src={github} styles={{innerHeight:'12px' , innerWidth: '12px'}} alt="github" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/tanya-75a03a254/">
         <Image src={linkedin} styles={{innerHeight:'12px' , innerWidth: '12px'}} alt="github" />
       </SocialIcons>
       <SocialIcons href="https://codepen.io/beta-test-initiation">
