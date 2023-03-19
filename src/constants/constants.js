@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Click-app',
     description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: '/images/click-app.jpg',
+    image: '/images/click-app.png',
     tags: ['Sanity', 'O-auth', 'React-dom', 'TailwindCss'],
     source: 'https://google.com',
     visit: 'https://clickappbeta.netlify.app/',
