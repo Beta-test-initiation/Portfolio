@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Chat-app',
+    title: 'Click-app',
     description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
     image: '/images/chat-app.jpg',
-    tags: ['Stream-chat', 'Axios', 'React-dom', 'Nodemon'],
+    tags: ['Sanity', 'O-auth', 'React-dom', 'TailwindCss'],
     source: 'https://google.com',
-    visit: 'https://github.com/Beta-test-initiation/Pager-app',
+    visit: 'https://clickappbeta.netlify.app/',
     id: 0,
     icon:'/images/ChatsCircle.png',
     background: 'linear-gradient(119.24deg, #FFFFFF -7.64%, #5DDDE7 16.16%, #1BCCDA 40.55%, #0FC6D5 69.57%, #00ACB9 103.82%);',
