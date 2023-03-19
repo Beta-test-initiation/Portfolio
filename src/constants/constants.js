@@ -13,7 +13,7 @@ export const projects = [
   {
     title: 'Codex',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/real-estate-app.jpg',
+    image: '/images/codex.png',
     tags: ['React', 'OpenAi', 'Nodemon', 'Vite'],
     source: 'https://google.com',
     visit: 'https://codex-beta-test-initiation.vercel.app/',
